@@ -4,6 +4,8 @@
 
 ![Hand Gesture Recognition](https://github.com/baukk/Gesture-Recognition/assets/76152244/52d33d2b-3cff-44c7-b504-a670c5927e67)
 
+![Hand Gesture Recognition]([https://github.com/baukk/Gesture-Recognition/assets/76152244/52d33d2b-3cff-44c7-b504-a670c5927e67](https://firebasestorage.googleapis.com/v0/b/github-video-48439.appspot.com/o/Screencast%20from%2001-29-2024%2011%3A04%3A27%20PM.webm?alt=media&token=e4318b54-401c-48cb-8c35-fac382f34747))
+
 
 [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
