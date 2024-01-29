@@ -1,0 +1,9 @@
+.galleryWrapper {
+    margin-top: 62px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, 266px);
+    column-gap: 30px;
+    row-gap: 30px;
+    margin-bottom: 60px;
+}

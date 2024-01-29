@@ -1,0 +1,130 @@
+.footer {
+    background: #F4F5F7;
+}
+
+.footerContainer {
+    gap: 179px;
+    padding-top: 45px;
+    padding-bottom: 52px;
+}
+
+.footerItem1 {
+    /* max-width: 362px; */
+    width: 362px;
+}
+
+.footerItem1 img {
+    margin-bottom: 26px;
+}
+
+.footerItem1 p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 47px;
+    color: #172B4D;
+}
+
+.footerItem2 {
+    /* max-width: 137px; */
+    width: 137px;
+    color: #172B4D;
+}
+
+.footerItem2 h4,
+.footerItem3 h4 {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.footerItem2 ul {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.footerItem2 ul li:hover {
+    color: #F27501;
+    cursor: pointer;
+}
+
+.footerItem3 {
+    /* min-width: 300px; */
+    width: 300px;
+}
+
+.footerItem3_info {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.footerItem3_info_item {
+    display: flex;
+    gap: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #091E42;
+    cursor: pointer;
+}
+
+.footerItem3_info_item div {
+    display: inline-block;
+    width: 32px !important;
+}
+
+.footer_social_media_item {
+    display: flex;
+    gap: 18.3px;
+}
+
+.copyright {
+    background: #091E42;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .footerContainer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding-left: 100px;
+        padding-right: 100px;
+        gap: 60px;
+    }
+
+    .footerItem1 {
+        grid-column: span 2 / span 2;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .footerContainer {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        gap: 60px;
+        padding-top: 45px;
+        padding-bottom: 52px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .footerItem1 {
+        width: auto;
+    }
+}
