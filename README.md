@@ -3,3 +3,6 @@
 # Hand Gesture Recognition using MediaPipe
 
 ![Hand Gesture Recognition](https://github.com/baukk/Gesture-Recognition/assets/76152244/52d33d2b-3cff-44c7-b504-a670c5927e67)
+
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
