@@ -13,4 +13,4 @@
 (https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55](https://www.loom.com/share/a91b66c1232645ae85e469942f234bb5?sid=b0eb1e66-95f4-4606-a9a9-96e270f451ef)https://www.loom.com/share/a91b66c1232645ae85e469942f234bb5?sid=b0eb1e66-95f4-4606-a9a9-96e270f451ef")
