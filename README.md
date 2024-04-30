@@ -42,4 +42,4 @@ Designed for villa owners, the admin dashboard offers comprehensive tools for ma
 
 ## Contributors
 - [Amit Anand](https://github.com/asqre) - Project Lead & Developer
-- [Sujit Roy]([link-to-contributor-profile](https://github.com/sujitroy-dev)) - Developer
+- [Sujit Roy](https://github.com/sujitroy-dev) - Developer
