@@ -41,5 +41,5 @@ Designed for villa owners, the admin dashboard offers comprehensive tools for ma
 5. Run the server using `npm start`.
 
 ## Contributors
-- [Amit Anand](https://github.com/asqre) - Project Lead & Developer
+- [Amit Anand](https://github.com/asqre) - Developer
 - [Sujit Roy](https://github.com/sujitroy-dev) - Developer
