@@ -1,5 +1,5 @@
 ## Live Demo
-You can access a live demo of the application here: [Western Ghat HomeStay)](https://wg.rayabharitechnologies.com/)
+You can access a live demo of the application here: [Western Ghat HomeStay](https://wg.rayabharitechnologies.com/)
 
 # Booking villa Demo
 
